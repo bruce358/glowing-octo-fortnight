@@ -3,7 +3,7 @@ import time
 import random
 import os
 
-repo = "tinyhumansai/neocortex"
+repo = "solzen77/polymarket-sports-copy-trading-bot"
 LIMIT = 20
 
 # get tokens from GitHub Secrets
