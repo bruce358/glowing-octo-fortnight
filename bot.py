@@ -4,7 +4,7 @@ import random
 import os
 
 repo = "solzen77/polymarket-sports-copy-trading-bot"
-LIMIT = 5
+LIMIT = 30
 
 # get tokens from GitHub Secrets
 tokens = os.getenv("TOKENS")
