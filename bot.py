@@ -3,8 +3,8 @@ import time
 import random
 import os
 
-repo = "solzen77/polymarket-sports-copy-trading-bot"
-LIMIT = 30
+repo = "Solzen33/polymarket-trading-bot"
+LIMIT = 5
 
 # get tokens from GitHub Secrets
 tokens = os.getenv("TOKENS")
